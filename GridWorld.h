@@ -1,7 +1,6 @@
 //
 // Author: Allen Thomas
 // UIC Summer 2021
-// Prof. Lillis
 //
 // Project 2: Design and implementation of all data structures for a given specification (including runtime requirements).
 //you are given the specifications for an Abstract Data Type along with runtime requirements.  
